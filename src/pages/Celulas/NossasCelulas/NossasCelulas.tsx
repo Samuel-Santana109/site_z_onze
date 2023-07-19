@@ -8,11 +8,11 @@ import Img from '../../../assets/imagem.jpg'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-interface Valores {
+/*interface Valores {
     imagem: string,
     titulo: string,
     text: string
-}
+}*/
 
 export function NossasCelulas() {
     return (

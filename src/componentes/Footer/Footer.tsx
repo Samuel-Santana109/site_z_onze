@@ -1,5 +1,5 @@
 
-import { FaInstagram, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaInstagram  } from 'react-icons/fa';
 import { Container, Row, Col } from 'react-bootstrap';
 
 

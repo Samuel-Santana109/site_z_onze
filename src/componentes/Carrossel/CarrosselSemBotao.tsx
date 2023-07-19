@@ -1,4 +1,4 @@
-import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal } from 'react';
+//import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal } from 'react';
 import './CarrosselSemBotao.css';
 
 interface Item {

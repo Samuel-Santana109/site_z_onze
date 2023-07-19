@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import  './SectionZonze.scss'
 import Img from '../../../assets/zeroUm.jpg'
 
