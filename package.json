@@ -1,7 +1,7 @@
 {
   "name": "SiteZ11",
-  "homepage": "https://github.io/Samuel-Santana109/SiteZ11",
-  "private": true,
+  "homepage": "https://Samuel-Santana109.github.io/SiteZ11/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
