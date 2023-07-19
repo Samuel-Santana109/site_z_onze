@@ -8,11 +8,16 @@ import Img from '../../../assets/imagem.jpg'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-/*interface Valores {
-    imagem: string,
-    titulo: string,
-    text: string
-}*/
+/*const ItensCelulas = [
+  {
+    yhorrana: {
+      dia: '',
+      horario: '',
+      contato: 0,
+      }
+  }
+ 
+]*/
 
 export function NossasCelulas() {
     return (
