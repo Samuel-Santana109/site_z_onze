@@ -1,7 +1,7 @@
 {
-  "name": "projeto_teologo",
+  "name": "SiteZ11",
   "homepage": "https://github.io/Samuel-Santana109/SiteZ11",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
