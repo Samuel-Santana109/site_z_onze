@@ -1,6 +1,6 @@
 {
   "name": "SiteZ11",
-  "homepage": "https://Samuel-Santana109.github.io/SiteZ11/",
+  "homepage": "https://Samuel-Santana109.github.io/SiteZ11",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -29,6 +29,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "gh-pages": "^5.0.0",
+    "pages": "^0.0.16",
     "sass": "^1.63.6",
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
