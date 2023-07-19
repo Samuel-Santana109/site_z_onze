@@ -1,0 +1,53 @@
+.sectionR {
+    margin-top: 1rem;
+    padding: 1rem;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+     background-color: white;
+     flex-direction: row-reverse;
+    
+  }
+  
+  .DivtextR {
+    padding: 2rem;
+    font-size: 1.6em;
+    display: flex;
+    background-color: white;
+
+  }
+
+  .spanR{
+    background-color: white;
+    color: black;
+   
+  }
+  
+  .imgR {
+    background-color: white;
+    width: 100%;
+    height: 25rem;
+    width: 25rem;
+  }
+  
+  /* Telas pequenas */
+  @media screen and (max-width: 700px) {
+    .sectionR {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .DivtextR {
+      text-align: center; /* Adicionamos alinhamento central para o texto */
+    }
+  
+    .imgR {
+      width: 80%;
+      height: 15rem;
+      width: 15rem;
+    }
+
+  }
+  
