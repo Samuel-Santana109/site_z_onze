@@ -2,7 +2,7 @@
 //import "./NossasCelulas.scss"
 
 //import Img from '../../../assets/fotoMissionariado.jpg'
-import Img from '../../../assets/imagem.jpg'
+import Img from '../../../../assets/imagem.jpg'
 
 //Bootstrap 
 import Button from 'react-bootstrap/Button';

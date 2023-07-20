@@ -1,6 +1,6 @@
-import { SectionZonze } from "./SectionZonze/SectionZonze"
+import { LideresDaEquipe } from "./LideresDaEquipe/LideresDaEquipe"
 import { NossaHistoria } from "./NossaHistoria/NossaHistoria"
-import { NossasCelulas } from "../Celulas/NossasCelulas/NossasCelulas"
+import { NossasCelulas } from "./Celulas/NossasCelulas/NossasCelulas"
 import { HorariosCultosArena } from "./HorariosCultosArena/HorariosCultosArena"
 
 export function Home() {
@@ -8,7 +8,7 @@ export function Home() {
 
   return (
     <>
-      <SectionZonze />
+      <LideresDaEquipe />
       <NossaHistoria />
       <NossasCelulas />
       <HorariosCultosArena />
