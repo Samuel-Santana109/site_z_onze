@@ -6,7 +6,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 export function Footer(){
     return(
-        <footer className="text-white footer">
+        <footer className="text-white text-center justify-content-end footer">
             <Container>
                 <Row>
             <Col>

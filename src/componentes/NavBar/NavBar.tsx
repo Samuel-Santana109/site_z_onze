@@ -11,11 +11,10 @@ export function NavBar() {
         <Navbar.Toggle aria-controls="navbar-nav" />
         <Navbar.Collapse id="navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#QuemSomosNos" className='text-light'>Quem Somos Nos</Nav.Link>
+            <Nav.Link href="#NossaHistoria" className='text-light'>Nossa Historia</Nav.Link>
             <Nav.Link href="#LideresDaEquipe" className='text-light' >Lideres da Equipe</Nav.Link>
-            <Nav.Link href="#Celulas" className='text-light'>Celulas</Nav.Link>
-            <Nav.Link href="#GritoDeGuerra" className='text-light'>Grito De Guerra</Nav.Link>
-            <Nav.Link href="#GritoDeGuerra" className='text-light'>Noosa Igreja</Nav.Link>
+            <Nav.Link href="#Celulas" className='text-light'> Nossas Celulas</Nav.Link>
+            <Nav.Link href="#Horarios" className='text-light'>Horarios Cultos Arena</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

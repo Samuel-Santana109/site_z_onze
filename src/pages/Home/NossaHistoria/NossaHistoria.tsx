@@ -1,6 +1,6 @@
 import "./NossaHistoria.scss"
 
-import Img from '../../../assets/fotoMissionariado.jpg'
+import Img from '../../../assets/fotoMissionariadoEditadaDois.jpg'
 
 //Bootstrap 
 import Image from 'react-bootstrap/Image';
@@ -8,7 +8,7 @@ import Image from 'react-bootstrap/Image';
 export function NossaHistoria() {
     return (
           <>
-            <div className="sectionR">
+            <div className="sectionR" id="NossaHistoria">
           
                   <div className="DivtextR" >
                     

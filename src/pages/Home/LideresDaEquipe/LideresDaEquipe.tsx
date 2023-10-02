@@ -1,6 +1,6 @@
 //import React from 'react'
 import  './LideresDaEquipe.scss'
-import Img from '../../../assets/zeroUm.jpg'
+import Img from '../../../assets/fotoMissionariadoEditadaDois.jpg'
 
 //Bootstrap 
 import Image from 'react-bootstrap/Image';
@@ -8,12 +8,15 @@ import Image from 'react-bootstrap/Image';
 export function LideresDaEquipe() {
     return (
       
-            <div className="section">
+            <div className="section" id='LideresDaEquipe'>
            
                   <div className="Divtext" >
-                    <h1>Quem Somos Nós</h1>
+                    
                     <span>
-                     ZeroUM Uma equipe qu esta impactando vidas impactando vidas, reescrevendo histórias e decidindo destinos. Isso é ZeroUM. Adquira já o seu ingresso e não perca a chance de ouvir palavras transformadoras, de viver dias inesquecíveis e de decidir de uma vez por todas O SEU DESTINO.
+                    Nossos missionarios sao xxxxxxxxxxx
+                    gabriel xxxxxxxxxx
+                    karen xxxxxxxxxxxx
+
                     </span>
                   </div>
 

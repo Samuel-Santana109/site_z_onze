@@ -1,8 +1,7 @@
 
-//import "./NossasCelulas.scss"
+import "./NossasCelulas.scss"
 
-//import Img from '../../../assets/fotoMissionariado.jpg'
-import Img from '../../../../assets/imagem.jpg'
+import Img from '../../../assets/imagem.jpg'
 
 //Bootstrap 
 import Button from 'react-bootstrap/Button';
@@ -21,7 +20,7 @@ import Card from 'react-bootstrap/Card';
 
 export function NossasCelulas() {
     return (
-      <div>
+      <div className='NossasCelulas' id='Celulas'>
             <Card style={{ width: '18rem', margin: '2rem' }}>
               <Card.Img variant="top" src={Img} />
               <Card.Body>
@@ -34,7 +33,6 @@ export function NossasCelulas() {
                 <Button variant="primary">Clique aqui para entrar em contato!</Button>
               </Card.Body>
             </Card>
-            
         </div>
     )
 }
